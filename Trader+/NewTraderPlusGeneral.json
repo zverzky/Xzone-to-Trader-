@@ -1,0 +1,676 @@
+{
+  "traderPlusGeneralTraders": [
+    {
+      "TraderPlusGeneralTraders_ID": 1,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Сидорович",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4545.629883,
+        72.296898,
+        1812.640015
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -89.069931,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 2,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Бармен",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4866.97998046875,
+        123.2300033569336,
+        6673.18994140625
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        2.0,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 3,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Сахаров",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        2454.510009765625,
+        39.0,
+        6209.6298828125
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        90.99999237060547,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 4,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Чистое небо",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        1473.209961,
+        82.357697,
+        1408.650024
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        91.790558,
+        0.0,
+        0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 5,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Наёмники",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        8373.700195,
+        138.02179,
+        7144.251465
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -80.115311,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 6,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Братва",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        5039.740234375,
+        119.5999984741211,
+        4632.0400390625
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 7,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Свобода",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        7728.64990234375,
+        123.26000213623047,
+        4911.33984375
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        2.0,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 8,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "ДОЛГ",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        1698.280029296875,
+        48.52000045776367,
+        4057.030029296875
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 9,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Слизни",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        2205.780029,
+        83.420799,
+        2086.629883
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -2.414455,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 10,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Наука",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        2446.52001953125,
+        39.400001525878906,
+        6218.22021484375
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -45.0,
+        0.0,
+        0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 11,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Ренегаты",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        6858.009766,
+        96.285599,
+        2879.22998
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -176.309692,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 12,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Монолит",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        5249.401367,
+        135.350067,
+        9412.804688
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        81.942139,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 13,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "ОКСОП",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4690.83984375,
+        58.15999984741211,
+        1576.8399658203125
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -7.0,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 14,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Грех",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        3168.949951,
+        92.596039,
+        10592.799805
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        96.932991,
+        0.0,
+        0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 15,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Топи",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        9426.759765625,
+        128.6490020751953,
+        9741.3798828125
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -90.0,
+        0.0,
+        0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 16,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "сталкерара около агропрома",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [],
+      "TraderPlusGeneralTraders_Orientation": [],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 17,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Сбыт груза",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        1672.3699951171875,
+        83.86799621582031,
+        1797.1400146484375
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -9.161714553833008,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 18,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Нейтралы",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4854.72021484375,
+        93.0602035522461,
+        2375.2099609375
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -82.05254364013672,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 20,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Торговец  Агропром",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        2756.18457,
+        38.784126,
+        4855.642578
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -89.999954,
+        -0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 21,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Исход",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [],
+      "TraderPlusGeneralTraders_Orientation": [],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 22,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Умиротворение",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [],
+      "TraderPlusGeneralTraders_Orientation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 23,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Поиск",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [],
+      "TraderPlusGeneralTraders_Orientation": [],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 24,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Туман",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        9327.150391,
+        118.378479,
+        2362.100098
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        89.901604,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 25,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Волонтеры",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [],
+      "TraderPlusGeneralTraders_Orientation": [],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 26,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Брат Ашота - Пашот",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        8535.460938,
+        118.981895,
+        3700.799561
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -110.310478,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 27,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Черные Ангела",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        5821.330078,
+        152.164001,
+        7968.5
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -86.669327,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 29,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Станция Янов",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        3535.909912,
+        111.375,
+        12884.299805
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -177.118713,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 30,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Тень Монолита",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        2870.189941,
+        113.797997,
+        8977.209961
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        38.896156,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 31,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Анклав",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [],
+      "TraderPlusGeneralTraders_Orientation": [],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 32,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Диггреы",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        3535.290039,
+        111.075996,
+        12857.799805
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 33,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Скитальцы",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        6870.931641,
+        95.499748,
+        506.908722
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        1100.804115,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 34,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "ОДН",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4597.399902,
+        77.327003,
+        1793.310059
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        95.310074,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 35,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Озёрский",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        3305.899902,
+        102.291,
+        12739.200195
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        87.858665,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 36,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Мобильная группа",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        3300.530029,
+        102.650002,
+        12747.0
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 37,
+      "TraderPlusGeneralTraders_classname": "SurvivorM_Elias",
+      "TraderPlusGeneralTraders_tradername": "Борис",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4773.929199,
+        126.903893,
+        6698.121582
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        72.0,
+        -0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": [
+        "CombatBoots_Beige",
+        "WorkingGloves_Black"
+      ]
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 38,
+      "TraderPlusGeneralTraders_classname": "SurvivorM_Kaito",
+      "TraderPlusGeneralTraders_tradername": "Толян",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4774.119629,
+        126.90387,
+        6702.746094
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        72.0,
+        -0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": [
+        "SGE_Loner_Raincoat_dw",
+        "SGE_Bandits_Overall_Pants_Rig",
+        "CombatBoots_Brown",
+        "WoolGlovesFingersless_Black"
+      ]
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 39,
+      "TraderPlusGeneralTraders_classname": "SurvivorM_Quinn",
+      "TraderPlusGeneralTraders_tradername": "Евгений",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4774.160156,
+        126.903893,
+        6712.539063
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        72.0,
+        -0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": [
+        "WorkingGloves_Black",
+        "leathergloves_bkack",
+        "combatboot_brown",
+        "imp_pants_gorka_gray"
+      ]
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 40,
+      "TraderPlusGeneralTraders_classname": "SurvivorM_Rolf",
+      "TraderPlusGeneralTraders_tradername": "Евгений",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4774.608398,
+        126.903877,
+        6717.234375
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        72.0,
+        -0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": [
+        "coat_aod_balalaika_vests",
+        "imp_pants_gorka_gray",
+        "combatboot_brown",
+        "leathergloves_bkack",
+        "AviatorGlasses"
+      ]
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 41,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Варяг",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        6673.660156,
+        41.589802,
+        1476.420044
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        124.199295,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 42,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Ганза",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4968.060059,
+        122.209999,
+        6777.209961
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        -88.58448,
+        0.0,
+        0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    },
+    {
+      "TraderPlusGeneralTraders_ID": 43,
+      "TraderPlusGeneralTraders_classname": "Land_Furniture_backpack",
+      "TraderPlusGeneralTraders_tradername": "Последний День",
+      "TraderPlusGeneralTraders_role": "Trader",
+      "TraderPlusGeneralTraders_Position": [
+        4206.885742,
+        131.514328,
+        9124.335938
+      ],
+      "TraderPlusGeneralTraders_Orientation": [
+        80.985504,
+        0.0,
+        -0.0
+      ],
+      "TraderPlus_Tradercategory_Clothes": []
+    }
+  ]
+}
